@@ -37,6 +37,10 @@ class Customer {
         return lastname;
     }
 
+    public void exampleCustomer(){
+        System.out.println("example");
+    }
+
     public void setAge(int age) {
         this.age = age;
     }

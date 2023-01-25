@@ -39,6 +39,10 @@ class Employee {
         this.gender = gender;
     }
 
+    public void exampleEmployee(){
+        System.out.println("example");
+    }
+
     public String getGenderEmployee() {
         return gender;
     }
